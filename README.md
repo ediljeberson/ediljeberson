@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeberson A J
-- 👀 I’m interested in development and ethical hacker
-- 🌱 I’m currently pursing my final year of computer science engineering 
-- 💞️ I’m looking for intern
+- 👀 I’m interested in .NET development and ethical hacker
+- 🌱 I’m currently pursing my final year of computer science and engineering also doing intern in Kumaran System Pvt.Ltd
+- 💞️ I’m looking for freelancing projects
 - 📫 Reach me @ediljeberson13@icloud.com
 
 <!---
